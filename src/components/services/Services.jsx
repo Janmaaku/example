@@ -8,35 +8,7 @@ const Services = () => {
       <h2>Services</h2>
 
       <div className='container services__container'>
-        <article className='service'>
-          <div className='service__head'>
-            <h3>UI/UX Design</h3>
-          </div>
-
-          <ul className='service__list'>
-            <li>
-              < BiCheck className='service__list-icon'/>
-                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
-            </li>
-            <li>
-              < BiCheck className='service__list-icon'/>
-                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
-            </li>
-            <li>
-              < BiCheck className='service__list-icon'/>
-                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
-            </li>
-            <li>
-              < BiCheck className='service__list-icon'/>
-                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
-            </li>
-            <li>
-              < BiCheck className='service__list-icon'/>
-                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
-            </li>
-          </ul>
-        </article>
-        {/* End of UI/UX */}
+        
         <article className='service'>
           <div className='service__head'>
             <h3>Web Development</h3>
@@ -45,24 +17,21 @@ const Services = () => {
           <ul className='service__list'>
             <li>
               < BiCheck className='service__list-icon'/>
-                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
+                <p>I develop the user interface.</p>
             </li>
             <li>
               < BiCheck className='service__list-icon'/>
-                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
+                <p>Web page development.</p>
             </li>
             <li>
               < BiCheck className='service__list-icon'/>
-                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
+                <p>I create user authentication.</p>
             </li>
             <li>
               < BiCheck className='service__list-icon'/>
-                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
+                <p>Debug problems in web page.</p>
             </li>
-            <li>
-              < BiCheck className='service__list-icon'/>
-                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
-            </li>
+           
           </ul>
         </article>
         {/* End of WEeb Development */}
@@ -72,24 +41,23 @@ const Services = () => {
           </div>
 
           <ul className='service__list'>
-            <li>
+          <li>
               < BiCheck className='service__list-icon'/>
-                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
+                <p>I develop the user interface.</p>
             </li>
             <li>
               < BiCheck className='service__list-icon'/>
-                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
+                <p>Web page development.</p>
             </li>
             <li>
               < BiCheck className='service__list-icon'/>
-                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
+                <p>I create user authentication.</p>
             </li>
             <li>
               < BiCheck className='service__list-icon'/>
-                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
+                <p>Debug problems in web page.</p>
             </li>
-            
-            
+           
           </ul>
         </article>
         {/* End of  Content Creation*/}
