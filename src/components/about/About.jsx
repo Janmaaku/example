@@ -24,24 +24,24 @@ const About = () => {
                 <article className='about__card'>
                   <FaAward className='about__icon' />
                   <h5> Experience </h5>
-                  <small>2 Years Working</small>
+                  <small>No experience</small>
                 </article>
 
                 <article className='about__card'>
                   <FiUsers className='about__icon' />
                   <h5> Clients </h5>
-                  <small>200+ Worldwide</small>
+                  <small>No Clients</small>
                 </article>
 
                 <article className='about__card'>
                   <VscFolderLibrary className='about__icon' />
                   <h5> Projects </h5>
-                  <small>80+ Completed </small>
+                  <small>No projects completed </small>
                 </article>
             </div>
 
             <p>
-              Lorem, ipsum dolor sit amet consectetur adipisicing elit. Rem corporis provident eum natus quia quaerat tempore esse ut ea. Quam obcaecati inventore ullam adipisci! Fuga quidem vero eaque totam reiciendis!
+            I don't have any experience in Web Developer but I’m passionate about everything that goes into making websites work well and look beautiful. The web is my passion because it’s where I can find the most exciting projects to work on. It’s also where I get to express my creativity in ways that are hard to find elsewhere.
             </p>
             <a href='#contact' className='btn btn-primary'>Let's Talk</a>
         
