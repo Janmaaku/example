@@ -3,6 +3,7 @@ import './portfolio.css'
 import IMG1 from '../../assets/portfolio1.png'
 import IMG2 from '../../assets/portfolio2.png'
 import IMG3 from '../../assets/portfolio_final.png'
+import IMG4 from '../../assets/calculator.png'
 
 // Do not use the images in production
 
@@ -28,7 +29,15 @@ const Portfolio = () => {
       image: IMG3,
       title: "Farmers-Hub",
       demo: 'https://farmers-hub-wzef.vercel.app/?fbclid=IwAR2MvmQ2JrILZu6MVDRRGAjRvVl3Lr30IPlhxVgRrDQVq90kXh8wBUknDvY'
+    },
+    {
+      id: 4,
+      image: IMG4,
+      title: "Calculator",
+      demo: 'https://janmaaku.github.io/calculator5-y/'
     }
+    
+    
   ]
 
   return (
